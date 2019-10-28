@@ -1,0 +1,199 @@
+{
+  "times": {
+    "0": "8:00 - 9:25",
+    "1": "9:35 - 11:00",
+    "2": "11:30 - 12:55",
+    "3": "13:05 - 14:30",
+    "4": "14:40 - 16:05",
+    "5": "16:35 - 18:00",
+    "6": "18:10 - 19:35",
+    "7": "19:45 - 21:10"
+  },
+  "schedules": {
+    "11": {
+      "0": {
+        "0": "Math analysis (L)",
+        "1": "Programming (L)",
+        "2": "DM and ML (L)"
+      },
+      "1": {
+        "0": "Algebra (L)",
+        "1": "DM and ML(P)",
+        "2": "Math analysis (P)"
+      },
+      "2": {
+        "0": "Physical training",
+        "1": "History (P)",
+        "2": "English (P)",
+        "3": "English (P)"
+    },
+    "3": {
+      "0": "Programing (L)",
+      "1": "Programming (P)",
+      "2": "DM and ML (L)"
+    },
+    "4": {
+      "0": "Geometry (L)",
+      "1": "Geometry (P)",
+      "2": "Algebra (P)",
+      "3": "Programming (P)",
+      "4": "Physical training"
+    }
+  },
+  "12": {
+    "0": {
+      "0": "Math analysis (L)",
+      "1": "Math analysis (P),",
+      "2": "English (P)",
+      "3": "English (P)"
+    },
+    "1": {
+      "0": "Algebra (L)",
+      "1": "Programming (L)",
+      "2": "DM and ML (L)"
+    },
+    "2": {
+      "0": "Physical training",
+      "1": "History (P)",
+      "2": "English (P)",
+      "3": "English (P)"
+    },
+    "3": {
+      "0": "Algebra (P)",
+      "1": "Geometry (P)"
+    },
+    "4": {
+      "0": "Geometry (L)",
+      "1": "DM and ML (L)",
+      "2": "Programming (P)",
+      "3": "DM and ML (P)"
+    }
+  },
+
+    "14": {
+      "0": {
+        "0": "Math (P)",
+        "1": "Math (L)",
+        "2": "Belorussian lang (P)"},
+
+      "1": {
+        "0": "Math (P)",
+        "1": "inform techno(L)",
+        "2": "Programming (L)"},
+
+      "2": {
+        "0": "Physical education",
+        "1": "inform techno(L) ",
+        "2": "inform techno(P)"},
+
+      "3": {
+        "0": "Math (L)",
+        "1": "safe people (P)",
+        "2": "History (P)",
+        "3": "inform techno (P)"},
+
+      "4": {
+        "0": "Programming (L)",
+        "1": "safe people P)",
+        "2": "english (P)",
+        "3": "english z (P)",
+        "4":"Physical education"}
+    },
+
+    "15": {
+      "0": {
+        "0": "Geometry (L)",
+        "1": "Geometry (P)",
+        "2": "Math (P)",
+        "4":"English(P)"},
+
+      "1": {
+        "0": "Programming (L)",
+        "1": "Element math (L)",
+        "2": "Element math (P)"},
+
+      "2": {
+        "0": "Physical education",
+        "1": "History (P) ",
+        "2": "Math analysis (P)",
+        "3": "Programming (p)",
+        "4": "English (P)"},
+
+      "3": {
+        "0": "Element math(L)",
+        "1": "Element math (P)",
+        "2": "English (P)",
+        "3": "English (P)"},
+
+      "4": {
+        "0": "Geometry and algebra (L)",
+        "1": "Geometry and algebra (P)",
+        "2": "Belorussian lang (P)",
+        "4": "Physical education"}
+    },
+
+    "17": {
+        "0": {
+          "0": "Math analysis (L)",
+          "1": "Math analysis (L)"},
+
+        "1": {
+          "0": "KG and MM (P)",
+          "1": "Geometry (P)",
+          "2": "inf techno (P)"},
+
+        "2": {
+          "0": "History(P)",
+          "1": "Ped (L) ",
+          "2": "Math analysis (P)"},
+
+        "3": {
+          "0": "Math (L)",
+          "1": "Math (P)",
+          "2": "The safety of the life of a men (P)",
+          "3": "Inform techno (P)"},
+
+        "4": {
+          "0": "Computer graphics (P)",
+          "1": "The safety of the life of a men (L)",
+          "2": "Computer graphics (L)",
+          "3": "Computer graphics (P)"}
+},
+
+    "18": {
+      "0": {
+        "0": "Math analysis (L)",
+        "1": "Math analysis (P)",
+        "2": "The safety of the life of a men (P)"
+      },
+      "1": {
+        "0": "Physics (L)",
+        "1": "Physics (P)",
+        "2": "Programming (P)",
+        "3": "Physics"
+      },
+      "2": {
+        "0": "Physical education",
+        "1": "Math analysis (L) ",
+        "2": "English (P)",
+        "3": "Physics (P)",
+        "4": "Physics (P)"
+      },
+      "3": {
+        "0": "Geometry (L)",
+        "1": "Geometry (P)",
+        "2": "English (P)",
+        "3": "English (P)"
+      },
+      "4": {
+        "0": "Programming (L)",
+        "1": "The safety of the life of a men (P)",
+        "2": "Math analysis (P)",
+        "3": "Programming (P)",
+        "4": "Physical education"
+      }
+    },
+
+    "BSU": "Oh, shit. Here we go again!"
+}
+}
